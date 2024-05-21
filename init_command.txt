@@ -1,0 +1,27 @@
+
+npx nuxi init <project_name>
+npm install
+
+//pinia (store)
+yarn add @pinia/nuxt
+npm install @pinia/nuxt
+npm i --force pinia
+
+//vuetify
+yarn add vuetify@next sass
+npm i vuetify@next sass
+
+//mdi icon
+yarn add @mdi/font
+npm i @mdi/font
+//fontawesome 5 icon
+yarn add @fortawesome/fontawesome-free -D
+npm install @fortawesome/fontawesome-free -D
+
+//i18n
+
+yarn add --save-dev vue-i18n
+npm install --save-dev vue-i18n
+
+yarn add --save-dev @intlify/unplugin-vue-i18n
+npm install --save-dev @intlify/unplugin-vue-i18n

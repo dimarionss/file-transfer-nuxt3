@@ -1,0 +1,4 @@
+@use "vuetify/settings" with (
+  $button-text-transform: unset,
+  $button-text-letter-spacing: 0
+);
